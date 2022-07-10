@@ -17,7 +17,7 @@ Si es el método aproximado seria:
 Fallat(matriz_de_admitancia,2,{VAF})
 
 Sistema con 2 nodos y se desea conocer la falla línea a tierra en el nodo 1.
-Fallalt(matriz_de_admitancia0, matriz_de_admitancia1, matriz_de_admitancia2,1,{VAF1,VAF2,VAF3})
+Fallalt(matriz_de_admitancia0, matriz_de_admitancia1, matriz_de_admitancia2,1,{VAF1,VAF2})
 Si es el método aproximado seria:
 Fallalt(matriz_de_admitancia0, matriz_de_admitancia1, matriz_de_admitancia2,1,{VAF})
 
